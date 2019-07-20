@@ -13,16 +13,45 @@ Linear Regression is a machine learning algorithm based on supervised learning. 
 
 - *Plot of Salary vs position level using simple linear regression*
 
-<img src="static/1.png" height = "400" width="600">
+<img src="polynomial regression/1.png" height = "400" width="600">
 
 ---------------------
 
 - *Plot of Salary vs position level using polynomial linear regression*
 
-<img src="static/2.png" height = "400" width="600">
+<img src="polynomial regression/2.png" height = "400" width="600">
 
 ---------------------
 
 - *Plot of Salary vs position level using polynomial linear regression and high precision*
 
-<img src="static/3.png" height = "400" width="600">
+<img src="polynomial regression/3.png" height = "400" width="600">
+
+---------------------
+
+- *Plot of Salary vs position level using decision tree*
+
+<img src="decision tree/1.png" height = "400" width="600">
+
+---------------------
+
+- *Plot of Salary vs position level using random forest with 10 decision tree*
+
+<img src="random forest/1.png" height = "400" width="600">
+
+---------------------
+
+- *Plot of Salary vs position level using random forest with 100 decision tree*
+
+<img src="random forest/2.png" height = "400" width="600">
+
+---------------------
+
+- *Plot of Salary vs position level using random forest with 300 decision tree*
+
+<img src="random forest/3.png" height = "400" width="600">
+
+
+
+
+
